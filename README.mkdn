@@ -1,4 +1,4 @@
-CyanogenMod
+FenixOS
 ===========
 
 Getting Started
